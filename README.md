@@ -5,14 +5,12 @@
 
 ### 🛠️ Skills:
   - **Language(s):** Intermediate Java
-  - **OS:** Ubuntu Linux (Command Line, Filesystem)
+  - **OS:** Ubuntu and Kali Linux (Command Line, Filesystem)
 
 ### 🎯Currently Learning:
-  - [ ] IP Address
-  - [ ] Ports
-  - [ ] DNS
-  - [ ] HTTP vs HTTPS
-  - [ ] Website opening
+  - [ ] Basic Linux and Windows Security
+  - [ ] Scanning and Enumeration
+  - [ ] OWASP Top 10
 
   
 ### 🤝 Connect with me: 
