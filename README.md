@@ -4,13 +4,13 @@
 ---
 
 ### 🛠️ Skills:
-  - **Language(s):** Intermediate Java
-  - **OS:** Ubuntu and Kali Linux (Command Line, Filesystem)
+  - **Language(s):** Intermediate Java, Beginner Python
+  - **OS:** Ubuntu, Kali Linux, and Windows (Command Line, Filesystem)
 
 ### 🎯Currently Learning:
-  - [ ] Basic Linux and Windows Security
-  - [ ] Scanning and Enumeration
-  - [ ] OWASP Top 10
+  - [ ] Python Programming
+  - [ ] Object Oriented Programming (Java)
+  - [ ] Web Development
 
   
 ### 🤝 Connect with me: 
